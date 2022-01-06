@@ -1,0 +1,15 @@
+10 10
+N R T C D Y K K Y G 
+M G G G H F D G A N 
+D C V W L B B L S G 
+V H Q L I J R P M C 
+Y D D P U D L F I K 
+W L H G J E Q G N F 
+Y K P T S M P Z X G 
+I L X Y S A L P I M 
+T T G B F I C U O A 
+D U A V J S K Q G K 
+3
+yasmin -- --
+linda -- --
+demais -- --

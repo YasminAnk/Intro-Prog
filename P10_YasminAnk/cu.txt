@@ -1,0 +1,18 @@
+11 10
+G A O O E F S B A B
+X T D L Y U A R B R
+O L A S A P T M E R
+A E S A E G O Z I N
+P T C R U Z E I R O
+C I S E G U N D A X 
+A C C A M P E A O X
+O O V O E M E L H O
+A C P A L T O C A S
+G A N H O U B O N I
+B R A S I L E I R O
+5
+atletico ab hb
+campeao -- --
+brasileiro -- --
+galo df ac
+ganhou -- --
